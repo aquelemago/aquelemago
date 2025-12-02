@@ -43,9 +43,9 @@ No momento aprofundo meus estudos em **PHP e Delphi, e manutenção de sistemas 
 
 ---
 
-## ✉️ Contato
+### 📬 Contato
 
-📧 **Email:** 20cabral.lucas@gmail.com  
-💼 **LinkedIn:** linkedin.com/in/lucascabral-lucas/
+- 📧 **Email:** [20cabral.lucas@gmail.com](mailto:20cabral.lucas@gmail.com)
+- 💼 **LinkedIn:** [@lucascabral-lucas](https://linkedin.com/in/lucascabral-lucas)
 
 ---
