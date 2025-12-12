@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Fullstack Python | Futuro Especialista em Sistemas Legados PHP e Delphi`**
 
-Sou um desenvolvedor Python que conecta **pessoas, processos e tecnologia**.  
-Atuei com *Delphi, RPA, BI e Análise de Processos*, atualmente buscando transformar sistemas legados em soluções modernas, eficientes e sustentáveis.  
+Sou um desenvolvedor Python que conecta áreas de **pessoas, processos e tecnologia**.  
+Atuei com *Delphi, RPA, Suporte Pelno a Sistemas, BI e Análise de Processos*, atualmente buscando transformar sistemas legados em soluções modernas e eficientes. Fornecendo uma visão moderna a sistemas legados.
 No momento aprofundo meus estudos em **PHP e Delphi, e manutenção de sistemas legados**, combinando experiência técnica com visão de processo para entregar resultados.
 
 ---
