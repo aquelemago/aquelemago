@@ -1,13 +1,13 @@
 <h1 align="center">Lucas Cabral</h1>
 
 <p align="center">
-  <strong>Python, automações e análise de dados</strong><br>
-  Soluções práticas para melhorar rotinas, organizar informações e apoiar decisões operacionais.
+  <strong>Python | Automações | Dados</strong><br>
+  Soluções simples para melhorar rotinas, processos e decisões.
 </p>
 
 <p align="center">
   <a href="mailto:20cabral.lucas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-20cabral.lucas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/lucascabral-lucas">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -16,52 +16,38 @@
 
 ---
 
-## Sobre mim
+## Sobre
 
-Atuo na conexão entre **tecnologia, operação e processos**. Minha experiência vem do suporte a sistemas legados, atendimento a usuários, acompanhamento de rotinas internas e vivência com **Delphi** em ambientes operacionais.
+Foco em **Python, automações e análise de dados** para criar soluções práticas que reduzem tarefas manuais, organizam informações e melhoram a operação.
 
-Hoje meu foco é bem definido: **Python, automações e dados**. Busco criar ferramentas simples e funcionais para reduzir tarefas manuais, melhorar processos, organizar informações e transformar dados em apoio real para tomada de decisão.
+Tenho experiência com **suporte a sistemas legados**, **Delphi**, atendimento a usuários e melhoria de rotinas internas.
 
 ---
 
-## Foco profissional
+## Atuação
 
-| Frente | O que busco entregar |
+| Foco | Entrega |
 | --- | --- |
-| **Python** | Aplicações, scripts e ferramentas internas |
-| **Automações** | Redução de tarefas repetitivas e ganho de produtividade |
-| **Dados** | Tratamento, organização e análise de informações operacionais |
-| **Processos** | Melhoria de rotinas com visão prática da operação |
+| **Python** | Scripts, aplicações e ferramentas internas |
+| **Automações** | Menos trabalho manual e mais produtividade |
+| **Dados** | Organização, análise e apoio à decisão |
+| **Legados** | Suporte, manutenção e evolução em Delphi |
 
 ---
 
-## Experiência
+## Estudos
 
-- Suporte a sistemas legados e atendimento a usuários
-- Vivência com **Delphi** em contexto de manutenção e operação
-- Acompanhamento de rotinas em sistemas internos
-- Apoio em análise de processos e melhoria operacional
-- Tradução de necessidades da operação em soluções técnicas
+Atualmente criando projetos com **JavaScript** e **TypeScript**, além de estudar **IA aplicada ao desenvolvimento**.
 
----
-
-## Estudos atuais
-
-Além do foco em Python, estou criando projetos de estudo com **JavaScript** e **TypeScript** para fortalecer minha base em desenvolvimento web moderno.
-
-Também estudo **Inteligência Artificial aplicada ao desenvolvimento e à automação**, com atenção especial para:
-
-- **MCP** e integração entre modelos, ferramentas e dados
-- **RAG** para consulta a bases de conhecimento com IA
-- **Agentes de IA** para fluxos automatizados e tarefas assistidas
-- Engenharia de prompts e organização de contexto
-- IA aplicada a automação, análise de dados e produtividade
+```text
+MCP | RAG | Agentes de IA | Prompts | Automação com IA
+```
 
 ---
 
 ## Tecnologias
 
-### Foco principal
+### Principal
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
@@ -77,7 +63,7 @@ Também estudo **Inteligência Artificial aplicada ao desenvolvimento e à autom
   <img src="https://img.shields.io/badge/Suporte%20a%20Sistemas-4EAA25?style=for-the-badge&logo=linux&logoColor=white" alt="Suporte a sistemas" />
 </p>
 
-### Estudos
+### Estudando
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1F2328" alt="JavaScript" />
@@ -99,24 +85,6 @@ Também estudo **Inteligência Artificial aplicada ao desenvolvimento e à autom
 
 ---
 
-## Direção atual
-
-```text
-Foco: Python, automações e dados
-Experiência: suporte a sistemas legados, Delphi e operação
-Estudos: JavaScript, TypeScript, IA, MCP, RAG e agentes
-Objetivo: criar soluções úteis, simples e aplicáveis ao dia a dia da operação
-```
-
----
-
-## Contato
-
-<p>
-  <a href="mailto:20cabral.lucas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Enviar%20mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" />
-  </a>
-  <a href="https://linkedin.com/in/lucascabral-lucas">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" />
-  </a>
+<p align="center">
+  <strong>Foco atual:</strong> Python, dados e automações para melhorar processos reais.
 </p>
