@@ -1,8 +1,8 @@
 <h1 align="center">Lucas Cabral</h1>
 
 <p align="center">
-  <strong>Python, RPA, dados, suporte a sistemas e desenvolvimento de soluções internas</strong><br>
-  Transformo processos manuais, falhas recorrentes e demandas operacionais em automações, documentação e sistemas mais estáveis.
+  <strong>Analista Desenvolvedor | Sistemas internos, ERP, SQL, Python e automação de processos</strong><br>
+  Apoio empresas na sustentação, melhoria e evolução de sistemas usados na operação diária.
 </p>
 
 <p align="center">
@@ -16,70 +16,61 @@
 
 ---
 
-## Sobre mim
+## Perfil profissional
 
-Atuo na interseção entre **desenvolvimento, automação, suporte a sistemas, infraestrutura e processos**. Minha experiência vem de ambientes onde tecnologia precisa resolver problemas reais: reduzir tarefas manuais, melhorar atendimento, padronizar rotinas, investigar falhas, apoiar usuários e sustentar sistemas internos.
+Sou um profissional de sistemas com experiência em **suporte, implantação, análise de requisitos, manutenção, documentação e desenvolvimento de melhorias**. Minha atuação é voltada para ambientes onde o sistema precisa funcionar bem para o usuário, refletir corretamente a regra de negócio e apoiar a rotina da empresa.
 
-Tenho trajetória com **Python para RPA**, suporte a **ERP e sistemas legados**, documentação técnica, análise de processos, SQL, relatórios, correção de bugs, integrações e implantação de soluções conforme a operação do cliente.
+Tenho vivência com **ERP para varejo, sistemas legados, SQL, relatórios, parametrizações, testes, correção de bugs, rotinas internas e automações em Python/RPA**. Essa combinação me permite transitar entre a conversa com o usuário, a análise do problema e a solução técnica.
 
 ---
 
-## Entregas principais
+## Onde gero valor
 
-| Área | Como contribuo |
+| Necessidade da empresa | Como posso contribuir |
 | --- | --- |
-| **Automações RPA em Python** | Desenvolvimento, sustentação e evolução de automações para reduzir trabalho manual, padronizar execuções e melhorar a confiabilidade de processos. |
-| **Suporte a sistemas ERP e legados** | Atendimento a usuários, análise de chamados, investigação de erros, identificação de inconsistências, registros técnicos e encaminhamento de casos complexos. |
-| **Análise de processos e documentação** | Levantamento de requisitos, mapeamento de fluxos, documentação de regras, testes, validações e apoio à melhoria contínua. |
-| **Infraestrutura, Helpdesk e atendimento técnico** | Suporte remoto e presencial, VPN, firewall, Linux, VMware, manutenção de equipamentos, inventário e controle de ativos. |
-| **Desenvolvimento, SQL e sistemas internos** | Manutenção de sistemas, correção de bugs, criação de telas, consultas, relatórios, rotinas, integrações e regras de negócio. |
-
----
-
-## Projetos em destaque
-
-> O workspace atual contém apenas o repositório de perfil. Os itens abaixo são placeholders para substituir por projetos publicados quando estiverem disponíveis.
-
-| Projeto | Descrição | Tecnologias | Link |
-| --- | --- | --- | --- |
-| **[Nome do projeto de RPA]** | Automação para execução de rotina operacional repetitiva, com foco em padronização, logs e redução de intervenção manual. | Python, RPA | `Adicionar link` |
-| **[Nome do projeto de dados]** | Organização, tratamento ou análise de dados para apoiar acompanhamento operacional e tomada de decisão. | Python, SQL, Dados | `Adicionar link` |
-| **[Nome do sistema interno]** | Tela, rotina, relatório ou integração criada para apoiar processos internos e manutenção de regras de negócio. | Python/Delphi, SQL | `Adicionar link` |
+| **Manter sistemas funcionando com estabilidade** | Analiso chamados, reproduzo erros, investigo inconsistências, documento falhas e apoio correções com foco no impacto para a operação. |
+| **Evoluir sistemas internos** | Participo da análise de requisitos, criação de telas, ajustes de regras, consultas, relatórios, rotinas e integrações. |
+| **Apoiar usuários e áreas de negócio** | Traduzo problemas operacionais em demandas técnicas claras, com registro, validação e comunicação objetiva. |
+| **Implantar e parametrizar soluções** | Levanto necessidades, configuro módulos, valido processos, conduzo testes, apoio treinamentos e registro configurações. |
+| **Automatizar rotinas manuais** | Uso Python e RPA para padronizar execuções, reduzir retrabalho e criar processos mais controláveis. |
+| **Organizar conhecimento técnico** | Documento processos, regras de negócio, falhas conhecidas, fluxos e procedimentos para facilitar sustentação. |
 
 ---
 
 ## Experiência aplicada
 
-Minha trajetória combina suporte, implantação, processos e desenvolvimento. Em **infraestrutura e Helpdesk**, trabalhei com atendimento técnico, acesso remoto, VPN, firewall, Linux, VMware, inventário, controle de ativos, documentação e melhoria de SLA, incluindo implementação de Helpdesk e automações em Python.
+Minha base profissional foi construída em contato direto com usuários, sistemas e processos. Isso me deu uma visão prática sobre o que torna um sistema realmente útil: clareza nas regras, boa comunicação, registro técnico confiável, testes bem feitos e atenção ao impacto de cada mudança.
 
-Em **suporte a sistemas**, atuei com ERP para varejo, investigação de falhas, análise de inconsistências, registro padronizado de erros e documentação em wiki interna para apoiar usuários e Qualidade de Software.
+Em **suporte a sistemas ERP**, trabalhei com análise e resolução de chamados, atendimento a usuários, investigação de erros, identificação de inconsistências, acesso remoto, documentação em wiki interna e registro padronizado de falhas para apoio à Qualidade de Software.
 
-Em **processos e RPA**, participei de reuniões com clientes internos, levantamento de requisitos, fluxogramas, testes, documentação, sustentação e evolução de automações, com foco em estabilidade, reaproveitamento de componentes e melhoria contínua.
+Em **implantação de sistemas**, atuei no levantamento de necessidades do cliente, configuração de módulos, parametrização conforme processos da empresa, testes, validações, treinamentos, pós-implantação, suporte inicial e documentação de configurações.
 
-Em **implantação e desenvolvimento**, trabalhei com levantamento de necessidades, parametrização de sistemas, implantação de módulos, validações, treinamentos, pós-implantação, análise de requisitos, manutenção de sistemas, SQL, relatórios, rotinas, integrações e correção de bugs.
+Em **processos e automações**, participei de reuniões com clientes internos, levantamento de requisitos, mapeamento de fluxos, testes, documentação, sustentação e evolução de soluções automatizadas, com foco em estabilidade e reaproveitamento.
+
+Em **desenvolvimento de sistemas internos**, atuo com análise de requisitos, manutenção, correção de bugs, melhorias, criação de telas, consultas SQL, relatórios, rotinas, integrações, regras de negócio, testes e documentação técnica.
 
 ---
 
-## Tecnologias
+## Competências principais
 
 ### Uso principal
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/RPA-0A66C2?style=for-the-badge&logo=python&logoColor=white" alt="RPA com Python" />
+  <img src="https://img.shields.io/badge/Sistemas%20internos-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Sistemas internos" />
+  <img src="https://img.shields.io/badge/ERP-4EAA25?style=for-the-badge&logo=googledocs&logoColor=white" alt="ERP" />
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Dados-0F766E?style=for-the-badge&logo=databricks&logoColor=white" alt="Dados" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
 </p>
 
 ### Experiência profissional
 
 <p>
-  <img src="https://img.shields.io/badge/Suporte%20a%20Sistemas-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Suporte a sistemas" />
-  <img src="https://img.shields.io/badge/ERP-4EAA25?style=for-the-badge&logo=linux&logoColor=white" alt="ERP" />
+  <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20requisitos-111827?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Análise de requisitos" />
+  <img src="https://img.shields.io/badge/Suporte%20a%20Sistemas-0A66C2?style=for-the-badge&logo=zendesk&logoColor=white" alt="Suporte a sistemas" />
   <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=1F2328" alt="Linux" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/Helpdesk-111827?style=for-the-badge&logo=googledocs&logoColor=white" alt="Helpdesk" />
+  <img src="https://img.shields.io/badge/Sistemas%20legados-374151?style=for-the-badge&logo=github&logoColor=white" alt="Sistemas legados" />
+  <img src="https://img.shields.io/badge/RPA-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="RPA com Python" />
+  <img src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o%20t%C3%A9cnica-607078?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentação técnica" />
 </p>
 
 ### Estudando atualmente
@@ -94,16 +85,17 @@ Em **implantação e desenvolvimento**, trabalhei com levantamento de necessidad
 
 ---
 
-## Forma de trabalho
+## Como trabalho
 
-- Entender o processo antes de automatizar.
-- Documentar decisões, regras e exceções para facilitar sustentação.
-- Priorizar estabilidade, clareza e reaproveitamento em automações.
-- Registrar falhas de forma padronizada para acelerar análise e correção.
-- Aproximar suporte, processos e desenvolvimento para entregar soluções úteis.
+- Primeiro entendo o processo, a regra de negócio e o impacto para o usuário.
+- Investigo problemas com atenção à causa, recorrência e evidências.
+- Transformo demandas abertas em requisitos, tarefas e validações mais objetivas.
+- Documento decisões, parâmetros, exceções e comportamentos esperados.
+- Valido mudanças pensando na rotina real da operação.
+- Busco soluções simples de sustentar, reaproveitar e evoluir.
 
 ---
 
 <p align="center">
-  <strong>Foco atual:</strong> Python, RPA, dados, SQL e sistemas internos aplicados a processos reais.
+  <strong>Aberto a oportunidades envolvendo sistemas internos, ERP, SQL, Python, automações e melhoria de processos.</strong>
 </p>
