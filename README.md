@@ -11,7 +11,7 @@ Atuo na sustentação, melhoria e evolução de sistemas usados na operação di
 
 ## Perfil profissional
 
-Sou um profissional de sistemas com experiência em **suporte, implantação, análise de requisitos, manutenção, documentação e desenvolvimento de melhorias**.
+Sou um profissional de sistemas com experiência em **suporte, implantação, integração, análise de requisitos, manutenção, documentação e desenvolvimento de melhorias**.
 
 Tenho vivência com **ERP para varejo, sistemas internos, sistemas legados, SQL, relatórios, parametrizações, testes, correção de bugs e automações em Python/RPA**.
 
