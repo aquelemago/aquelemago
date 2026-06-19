@@ -1,4 +1,4 @@
-```html
+```md
 <h1 align="center">Lucas Cabral</h1>
 
 <p align="center">
@@ -33,6 +33,15 @@ Tenho vivência com **ERP para varejo, sistemas internos, sistemas legados, SQL,
 - Consultas SQL, relatórios, testes e validações.
 - Implantação, parametrização e suporte a ERP.
 - Automação de rotinas manuais com Python/RPA.
+- Organização de processos, registros e conhecimento técnico.
+
+---
+
+## Experiência aplicada
+
+Minha base profissional foi construída em contato direto com usuários, sistemas e processos. Atuo com foco em entender o problema, analisar a regra de negócio, investigar causas, documentar informações importantes e propor soluções sustentáveis.
+
+Tenho experiência em suporte a sistemas ERP, implantação e parametrização de soluções, documentação técnica, testes, validação de processos, criação de consultas SQL, relatórios, automações e melhorias em sistemas internos.
 
 ---
 
@@ -71,7 +80,12 @@ Tenho vivência com **ERP para varejo, sistemas internos, sistemas legados, SQL,
 
 ## Como trabalho
 
-Busco entender o processo, investigar a causa dos problemas, documentar decisões e validar mudanças com foco na rotina real da operação.
+- Entendo o processo, a regra de negócio e o impacto para o usuário.
+- Investigo problemas com atenção à causa, recorrência e evidências.
+- Transformo demandas abertas em requisitos, tarefas e validações objetivas.
+- Documento decisões, parâmetros, exceções e comportamentos esperados.
+- Valido mudanças pensando na rotina real da operação.
+- Busco soluções simples de sustentar, reaproveitar e evoluir.
 
 ---
 
