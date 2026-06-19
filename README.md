@@ -1,8 +1,9 @@
+```html
 <h1 align="center">Lucas Cabral</h1>
 
 <p align="center">
   <strong>Analista Desenvolvedor | Sistemas internos, ERP, SQL, Python e automação de processos</strong><br>
-  Apoio empresas na sustentação, melhoria e evolução de sistemas usados na operação diária.
+  Atuo na sustentação, melhoria e evolução de sistemas usados na operação diária das empresas.
 </p>
 
 <p align="center">
@@ -18,36 +19,20 @@
 
 ## Perfil profissional
 
-Sou um profissional de sistemas com experiência em **suporte, implantação, análise de requisitos, manutenção, documentação e desenvolvimento de melhorias**. Minha atuação é voltada para ambientes onde o sistema precisa funcionar bem para o usuário, refletir corretamente a regra de negócio e apoiar a rotina da empresa.
+Sou um profissional de sistemas com experiência em **suporte, implantação, análise de requisitos, manutenção, documentação e desenvolvimento de melhorias**.
 
-Tenho vivência com **ERP para varejo, sistemas legados, SQL, relatórios, parametrizações, testes, correção de bugs, rotinas internas e automações em Python/RPA**. Essa combinação me permite transitar entre a conversa com o usuário, a análise do problema e a solução técnica.
+Tenho vivência com **ERP para varejo, sistemas internos, sistemas legados, SQL, relatórios, parametrizações, testes, correção de bugs e automações em Python/RPA**. Minha atuação conecta a necessidade do usuário, a regra de negócio e a solução técnica.
 
 ---
 
 ## Onde gero valor
 
-| Necessidade da empresa | Como posso contribuir |
-| --- | --- |
-| **Manter sistemas funcionando com estabilidade** | Analiso chamados, reproduzo erros, investigo inconsistências, documento falhas e apoio correções com foco no impacto para a operação. |
-| **Evoluir sistemas internos** | Participo da análise de requisitos, criação de telas, ajustes de regras, consultas, relatórios, rotinas e integrações. |
-| **Apoiar usuários e áreas de negócio** | Traduzo problemas operacionais em demandas técnicas claras, com registro, validação e comunicação objetiva. |
-| **Implantar e parametrizar soluções** | Levanto necessidades, configuro módulos, valido processos, conduzo testes, apoio treinamentos e registro configurações. |
-| **Automatizar rotinas manuais** | Uso Python e RPA para padronizar execuções, reduzir retrabalho e criar processos mais controláveis. |
-| **Organizar conhecimento técnico** | Documento processos, regras de negócio, falhas conhecidas, fluxos e procedimentos para facilitar sustentação. |
-
----
-
-## Experiência aplicada
-
-Minha base profissional foi construída em contato direto com usuários, sistemas e processos. Isso me deu uma visão prática sobre o que torna um sistema realmente útil: clareza nas regras, boa comunicação, registro técnico confiável, testes bem feitos e atenção ao impacto de cada mudança.
-
-Em **suporte a sistemas ERP**, trabalhei com análise e resolução de chamados, atendimento a usuários, investigação de erros, identificação de inconsistências, acesso remoto, documentação em wiki interna e registro padronizado de falhas para apoio à Qualidade de Software.
-
-Em **implantação de sistemas**, atuei no levantamento de necessidades do cliente, configuração de módulos, parametrização conforme processos da empresa, testes, validações, treinamentos, pós-implantação, suporte inicial e documentação de configurações.
-
-Em **processos e automações**, participei de reuniões com clientes internos, levantamento de requisitos, mapeamento de fluxos, testes, documentação, sustentação e evolução de soluções automatizadas, com foco em estabilidade e reaproveitamento.
-
-Em **desenvolvimento de sistemas internos**, atuo com análise de requisitos, manutenção, correção de bugs, melhorias, criação de telas, consultas SQL, relatórios, rotinas, integrações, regras de negócio, testes e documentação técnica.
+- Sustentação e melhoria de sistemas internos.
+- Análise e resolução de chamados.
+- Levantamento de requisitos e documentação técnica.
+- Consultas SQL, relatórios, testes e validações.
+- Implantação, parametrização e suporte a ERP.
+- Automação de rotinas manuais com Python/RPA.
 
 ---
 
@@ -67,7 +52,6 @@ Em **desenvolvimento de sistemas internos**, atuo com análise de requisitos, ma
 <p>
   <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20requisitos-111827?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Análise de requisitos" />
   <img src="https://img.shields.io/badge/Suporte%20a%20Sistemas-0A66C2?style=for-the-badge&logo=zendesk&logoColor=white" alt="Suporte a sistemas" />
-  <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi" />
   <img src="https://img.shields.io/badge/Sistemas%20legados-374151?style=for-the-badge&logo=github&logoColor=white" alt="Sistemas legados" />
   <img src="https://img.shields.io/badge/RPA-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="RPA com Python" />
   <img src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o%20t%C3%A9cnica-607078?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentação técnica" />
@@ -87,15 +71,11 @@ Em **desenvolvimento de sistemas internos**, atuo com análise de requisitos, ma
 
 ## Como trabalho
 
-- Primeiro entendo o processo, a regra de negócio e o impacto para o usuário.
-- Investigo problemas com atenção à causa, recorrência e evidências.
-- Transformo demandas abertas em requisitos, tarefas e validações mais objetivas.
-- Documento decisões, parâmetros, exceções e comportamentos esperados.
-- Valido mudanças pensando na rotina real da operação.
-- Busco soluções simples de sustentar, reaproveitar e evoluir.
+Busco entender o processo, investigar a causa dos problemas, documentar decisões e validar mudanças com foco na rotina real da operação.
 
 ---
 
 <p align="center">
   <strong>Aberto a oportunidades envolvendo sistemas internos, ERP, SQL, Python, automações e melhoria de processos.</strong>
 </p>
+```
