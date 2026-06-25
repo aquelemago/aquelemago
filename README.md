@@ -13,7 +13,7 @@ Atuo na sustentação, melhoria e evolução de sistemas usados na operação di
 
 Sou um profissional de sistemas com experiência em **suporte, implantação, integração, análise de requisitos, manutenção, documentação e desenvolvimento de melhorias**.
 
-Tenho vivência com **ERP para varejo, sistemas internos, sistemas legados, SQL, relatórios, parametrizações, testes, correção de bugs e automações em Python/RPA**.
+Tenho vivência com **ERP para varejo, sistemas internos, sistemas legados, SQL, relatórios, parametrizações, testes, correção de bugs e automações RPA**.
 
 Minha atuação conecta a necessidade do usuário, a regra de negócio e a solução técnica, sempre com foco em estabilidade, clareza e melhoria contínua dos processos.
 
