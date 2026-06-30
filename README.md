@@ -9,10 +9,6 @@ Crio integrações entre sistemas, automatizo processos com RPA e desenvolvo sol
   <a href="https://linkedin.com/in/lucascabral-lucas"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-### Sobre
-
-Desenvolvo soluções de integração e automação para conectar sistemas, unificar dados e eliminar processos manuais. Atuo com Python, APIs, SQL e RPA para criar desde scripts automatizados até sistemas internos completos.
-
 ### O que desenvolvo
 
 - **Integrações entre sistemas** — conecto APIs, ERPs, CRMs e bancos de dados para unificar dados e processos
@@ -38,9 +34,3 @@ Desenvolvo soluções de integração e automação para conectar sistemas, unif
 
 [**eva_bot**](https://github.com/aquelemago/eva_bot) — Automação RPA em Python para o sistema SeniorX, automatizando o processo de admissão digital realizado pelo BPO da UNUS.
 
-### Contato
-
-<p align="left">
-  <a href="mailto:20cabral.lucas@gmail.com"><img src="https://img.shields.io/badge/Email-20cabral.lucas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/lucascabral-lucas"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
