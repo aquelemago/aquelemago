@@ -1,7 +1,7 @@
 # Lucas Cabral
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:7C3AED&height=220&section=header&text=Lucas%20Cabral&fontSize=50&fontColor=ffffff&animation=fadeIn">
 </p>
 
 <h3 align="center">
@@ -10,13 +10,6 @@ Desenvolvedor de Integrações e Automações RPA
 
 <p align="center">
 Automação de processos • Integração de sistemas • Soluções com Python
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B">
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
 </p>
 
 <p align="center">
@@ -99,8 +92,10 @@ Automatiza etapas do processo de admissão digital, reduzindo atividades manuais
 
 ---
 
+## Estatísticas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aquelemago&show_icons=true&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=aquelemago&show_icons=true&hide_title=true&theme=transparent">
 </p>
 
 <p align="center">
