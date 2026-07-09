@@ -11,10 +11,10 @@ Crio integrações entre sistemas, automatizo processos com RPA e desenvolvo sol
 
 ### O que desenvolvo
 
-- **Integrações entre sistemas** — conecto APIs, ERPs, CRMs e bancos de dados para unificar dados e processos
-- **Automações RPA com Python** — elimino rotinas manuais repetitivas com scripts automatizados
-- **Sistemas internos sob medida** — crio soluções para necessidades que sistemas de prateleira não atendem
-- **Ferramentas e consultas SQL** — desenvolvo relatórios e extrações para dar visibilidade à operação
+- **Integrações entre sistemas** — conecto APIs, ERPs, CRMs e bancos de dados para unificar dados
+- **Automações RPA com Python** — elimino rotinas manuais e repetitivas com scripts
+- **Sistemas internos sob demanda** — crio soluçõesque sistemas de prateleira não entregam
+- **Ferramentas e consultas SQL** — desenvolvo relatórios e extrações de dados para dar visibilidade à operação
 
 ### Stack
 
@@ -28,7 +28,7 @@ Crio integrações entre sistemas, automatizo processos com RPA e desenvolvo sol
 
 **Explorando:** JavaScript · TypeScript · IA Aplicada
 
-### Projetos
+### Meus Projetos
 
 [**frank_bot**](https://github.com/aquelemago/frank_bot) — Automação RPA com Python + Playwright que acessa o sistema Soft4, baixa CSV de chamados sem interação, separa por atendente e dispara e-mails via SMTP Office365 com relatório consolidado para gestão.
 
