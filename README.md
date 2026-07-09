@@ -1,8 +1,8 @@
 # Lucas Cabral
 
-**Desenvolvedor de Integrações e Automação de Processos**
+**Desenvolvedor de Integrações e Automações RPA**
 
-Crio integrações entre sistemas, automatizo processos com RPA e desenvolvo soluções que conectam APIs, ERPs e bancos de dados para eliminar tarefas manuais.
+Crio integrações entre sistemas, automatizo processos com RPA e desenvolvo soluções que conectam APIs, ERPs seus bancos de dados para eliminar tarefas manuais.
 
 <p align="left">
   <a href="mailto:20cabral.lucas@gmail.com"><img src="https://img.shields.io/badge/Email-20cabral.lucas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
