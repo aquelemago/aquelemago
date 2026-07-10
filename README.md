@@ -40,7 +40,7 @@ Desenvolvedor focado em:
 - Automações RPA
 - APIs e serviços backend
 - Processamento de dados
-- Soluções internas para empresas
+- Soluções internas para empresas.
 
 Transformo processos manuais em fluxos automatizados, conectando sistemas e reduzindo tarefas repetitivas.
 
