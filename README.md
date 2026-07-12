@@ -36,17 +36,6 @@ Acelera o processo de admissão digital no SeniorX, eliminando gargalos manuais 
 
 ---
 
-## Estatísticas
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aquelemago&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemago&layout=compact&theme=dark" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aquelemago&theme=dark" />
-</p>
-
 ---
 
 **Objetivo:** Criar soluções inteligentes combinando **Automação + Integração + Dados + IA**.
