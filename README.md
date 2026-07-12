@@ -44,7 +44,7 @@ Desenvolvedor focado em:
 
 Transformo processos manuais em fluxos automatizados, conectando sistemas e reduzindo tarefas repetitivas.
 
----
+
 
 ## Tecnologias
 
@@ -52,7 +52,7 @@ Transformo processos manuais em fluxos automatizados, conectando sistemas e redu
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,docker,js,ts&theme=dark">
 </p>
 
----
+
 
 ## Stack principal
 
