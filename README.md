@@ -1,4 +1,4 @@
-# Lucas Cabral.
+# Lucas Cabral
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1F6FEB,50:2563EB,100:7C3AED&text=Lucas%20Cabral&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
