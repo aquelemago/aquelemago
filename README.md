@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Lucas Cabral
-**Desenvolvedor de Integrações e Automações RPA**
+**Desenvolvedor de Integrações e Automação RPA**
 
 *Construindo automações, integrações e soluções backend com Python para transformar processos manuais em fluxos eficientes.*
 
