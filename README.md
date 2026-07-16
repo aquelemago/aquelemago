@@ -30,7 +30,7 @@ Desenvolvedor especializado em transformar processos manuais em fluxos eficiente
 
 ---
 
-## 📂 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :--- | :---: |
