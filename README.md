@@ -34,23 +34,12 @@ Desenvolvedor especializado em transformar processos manuais em fluxos eficiente
 
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :--- | :---: |
-| **🤖 frank_bot** | Automação RPA para triagem de chamados no Soft4 e geração de relatórios. | `Python`, `Playwright` |(https://github.com/aquelemago/frank_bot) |
-| **🤖 eva_bot** | Automação RPA para admissão digital no SeniorX, eliminando gargalos manuais. | `Python`, `RPA` |(https://github.com/aquelemago/eva_bot) |
-
+| **frank_bot** | Automação RPA para triagem de chamados no Soft4 e geração de relatórios. | `Python`, `Playwright` |(https://github.com/aquelemago/frank_bot) |
+| **eva_bot** | Automação RPA para admissão digital no HCM SeniorX. | `Python`, `RPA` |(https://github.com/aquelemago/eva_bot) |
 ---
-
-## Status
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Foco-Automação%20%26%20IA-blue?style=for-the-badge" />
-</p>
-
----
-
 <div align="center">
 
-**Objetivo:** Criar soluções inteligentes combinando **Automação + Integração + Dados + IA**.
+**Objetivo:** Criar soluções inteligentes: **Automação + Integração + Dados + IA**.
 
 </div>
 
