@@ -27,31 +27,34 @@ Transformo processos manuais em fluxos eficientes com **Python e RPA** — crian
     <td align="center" width="50%" valign="top">
       <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"><br>
       <sub>Python</sub>
-   </td>
+    </td>
     <td align="center" width="50%" valign="top">
       <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI"><br>
       <sub>FastAPI</sub>
-   </td>
- </tr>
+    </td>
+    <br>
+  </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"><br>
       <sub>PostgreSQL</sub>
-   </td>
+    </td>
     <td align="center" width="50%" valign="top">
       <img src="https://img.shields.io/badge/Playwright-2EA043?style=flat&logo=playwright&logoColor=white" alt="Playwright"><br>
       <sub>Playwright</sub>
-   </td>
- </tr>
+    </td>
+    <br>
+  </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"><br>
       <sub>Git</sub>
-   </td>
+    </td>
     <td align="center" width="50%" valign="top">
       <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"><br>
       <sub>Docker</sub>
     </td>
+    <br>
   </tr>
 </table>
 
@@ -64,7 +67,8 @@ Transformo processos manuais em fluxos eficientes com **Python e RPA** — crian
         <img src="https://img.shields.io/badge/frank__bot-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="frank_bot">
       </a>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=python,playwright&perline=2" alt="Stack frank_bot">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Playwright-2EA043?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
       <br><br>
       <sub>Automação RPA para triagem de chamados no Soft4 e geração de relatórios.</sub>
     </td>
@@ -80,16 +84,16 @@ Transformo processos manuais em fluxos eficientes com **Python e RPA** — crian
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <sub>🔧 Python &nbsp;|&nbsp; ⚡ Playwright &nbsp;|&nbsp; 🤖 RPA</sub>
+      <sub>🔧 Python · ⚡ Playwright · 🤖 RPA</sub>
     </td>
   </tr>
 </table>
 
-### Estatísticas
+### Estatísticas do GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aquelemago&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemago&theme=dark&layout=compact&langs_count=6" alt="Top Languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aquelemago&theme=dark&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemago&theme=dark&layout=compact&langs_count=6&cache_seconds=86400" alt="Top Languages">
 </div>
 
 ---
