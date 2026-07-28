@@ -28,13 +28,13 @@ Transformo processos manuais em fluxos eficientes com **Python e RPA** — crian
 
 <div align="center">
   <a href="https://github.com/aquelemago/frank_bot">
-    <img src="https://img.shields.io/badge/frank__bot-RPA_Vermelho-c1443d?style=for-the-badge&logo=github&logoColor=white" alt="frank_bot">
+    <img src="https://img.shields.io/badge/frank__bot-Triagem_de_Chamados-c1443d?style=for-the-badge&logo=github&logoColor=white" alt="frank_bot">
   </a>
   <br><br>
   <sub>Automação RPA para triagem de chamados no Soft4 e geração de relatórios.</sub>
   <br><br>
   <a href="https://github.com/aquelemago/eva_bot">
-    <img src="https://img.shields.io/badge/eva__bot-RPA_Azul-0077b5?style=for-the-badge&logo=github&logoColor=white" alt="eva_bot">
+    <img src="https://img.shields.io/badge/eva__bot-Admissao_Digital-0077b5?style=for-the-badge&logo=github&logoColor=white" alt="eva_bot">
   </a>
   <br><br>
   <sub>Automação RPA para admissão digital no HCM SeniorX.</sub>
