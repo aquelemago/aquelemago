@@ -20,9 +20,40 @@
 
 Transformo processos manuais em fluxos eficientes com **Python e RPA** — criando integrações e soluções de backend que reduzem custos, eliminam tarefas repetitivas e conectam sistemas de forma inteligente.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,docker&theme=dark" alt="Skills">
-</div>
+### Tecnologias
+
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"><br>
+      <sub>Python</sub>
+   </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI"><br>
+      <sub>FastAPI</sub>
+   </td>
+ </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"><br>
+      <sub>PostgreSQL</sub>
+   </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Playwright-2EA043?style=flat&logo=playwright&logoColor=white" alt="Playwright"><br>
+      <sub>Playwright</sub>
+   </td>
+ </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"><br>
+      <sub>Git</sub>
+   </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"><br>
+      <sub>Docker</sub>
+    </td>
+  </tr>
+</table>
 
 ### Projetos
 
