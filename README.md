@@ -28,23 +28,28 @@ Transformo processos manuais em fluxos eficientes com **Python e RPA** — crian
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/aquelemago/frank_bot">
         <img src="https://img.shields.io/badge/frank__bot-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="frank_bot">
       </a>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=python,playwright" alt="Stack frank_bot">
+      <img src="https://skillicons.dev/icons?i=python,playwright&perline=2" alt="Stack frank_bot">
       <br><br>
       <sub>Automação RPA para triagem de chamados no Soft4 e geração de relatórios.</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/aquelemago/eva_bot">
         <img src="https://img.shields.io/badge/eva__bot-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="eva_bot">
       </a>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=python" alt="Stack eva_bot">
+      <img src="https://skillicons.dev/icons?i=python&perline=2" alt="Stack eva_bot">
       <br><br>
       <sub>Automação RPA para admissão digital no HCM SeniorX.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <sub>🔧 Python &nbsp;|&nbsp; ⚡ Playwright &nbsp;|&nbsp; 🤖 RPA</sub>
     </td>
   </tr>
 </table>
