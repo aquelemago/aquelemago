@@ -21,18 +21,23 @@
 Transformo processos manuais em fluxos eficientes com **Python e RPA** — criando integrações e soluções de backend que reduzem custos, eliminam tarefas repetitivas e conectam sistemas de forma inteligente.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,playwright,git,docker&theme=dark" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,docker&theme=dark" alt="Skills">
 </div>
 
 ### Projetos
 
 <div align="center">
   <a href="https://github.com/aquelemago/frank_bot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aquelemago&repo=frank_bot&theme=dark&show_owner=true" />
+    <img src="https://img.shields.io/badge/frank__bot-RPA_Vermelho-c1443d?style=for-the-badge&logo=github&logoColor=white" alt="frank_bot">
   </a>
+  <br><br>
+  <sub>Automação RPA para triagem de chamados no Soft4 e geração de relatórios.</sub>
+  <br><br>
   <a href="https://github.com/aquelemago/eva_bot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aquelemago&repo=eva_bot&theme=dark&show_owner=true" />
+    <img src="https://img.shields.io/badge/eva__bot-RPA_Azul-0077b5?style=for-the-badge&logo=github&logoColor=white" alt="eva_bot">
   </a>
+  <br><br>
+  <sub>Automação RPA para admissão digital no HCM SeniorX.</sub>
 </div>
 
 ### Estatísticas
