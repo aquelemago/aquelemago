@@ -92,8 +92,13 @@ Transformo processos manuais em fluxos eficientes com **Python e RPA** — crian
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aquelemago&theme=dark&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemago&theme=dark&layout=compact&langs_count=6&cache_seconds=86400" alt="Top Languages">
+  <a href="https://github.com/aquelemago?tab=repositories">
+    <img src="https://img.shields.io/github/stars/aquelemago?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Stars">
+</a>
+  <a href="https://github.com/aquelemago">
+    <img src="https://img.shields.io/github/followers/aquelemago?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Followers">
+</a>
+  <img src="https://img.shields.io/badge/Public_Repos-5-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos">
 </div>
 
 ---
