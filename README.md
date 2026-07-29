@@ -23,7 +23,7 @@ Transformo processos manuais em fluxos eficientes com **Python e RPA** — crian
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,sqlite,redis,playwright,selenium,git,docker,linux,vscode,postman,swagger&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,redis,playwright,selenium,docker,linux,vscode,postman&theme=light" alt="Tech Stack"/>
 </p>
 
 ### Projetos em destaque
