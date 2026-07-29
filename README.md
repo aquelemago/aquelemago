@@ -25,10 +25,7 @@ Transformo processos manuais em fluxos eficientes com **Python e RPA** — crian
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <br>
   <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
@@ -52,16 +49,14 @@ Transformo processos manuais em fluxos eficientes com **Python e RPA** — crian
 ### GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aquelemago&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemago&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aquelemago&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies"/>
+  <a href="https://github.com/aquelemago?tab=repositories">
+    <img src="https://img.shields.io/github/stars/aquelemago?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=FFD700" alt="Stars"/>
+ </a>
+  <a href="https://github.com/aquelemago?tab=followers">
+    <img src="https://img.shields.io/github/followers/aquelemago?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=58A6FF" alt="Followers"/>
+ </a>
+  <img src="https://img.shields.io/badge/Public_Repos-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>
 </div>
 
 ---
 
-<div align="center">
-  <sub>Construído com 🐍 e café ☕</sub>
-</div>
