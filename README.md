@@ -2,7 +2,7 @@
 
 # Lucas Cabral
 
-**Desenvolvedor Backend · Integrações & Automação RPA**
+**Desenvolvedor Backend · Integrações, Automação RPA &  Agentes de IA**
 
 <p>
   <a href="mailto:20cabral.lucas@gmail.com"><img src="https://img.shields.io/badge/Gmail-c1443d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -18,7 +18,7 @@
 
 ### Sobre
 
-Transformo processos manuais em fluxos eficientes com **Python e RPA** — criando integrações e soluções de backend que reduzem custos, eliminam tarefas repetitivas e conectam sistemas de forma inteligente.
+Transformando processos manuais em fluxos eficientes com **Python, RPA e IA**. Crio integrações e apps backend que reduzem custos, eliminam tarefas repetitivas e conectam sistemas de forma inteligente.
 
 ### Tech Stack
 
