@@ -9,18 +9,17 @@
   <a href="https://linkedin.com/in/lucascabral-lucas"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/aquelemago"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
 <img src="https://komarev.com/ghpvc/?username=aquelemago&style=for-the-badge&color=blue" alt="Profile views"/>
 
 </div>
 
 ---
 
-### Sobre
+### sobre mim
 
-Transformando processos manuais em fluxos eficientes com **Python, RPA e IA**. Crio integrações e apps backend que reduzem custos, eliminam tarefas repetitivas e conectam sistemas de forma inteligente.
+mudo processos manuais para fluxos eficientes com **Python, RPA e IA**. Crio integrações e apps backend que reduzem custos, eliminam tarefas repetitivas e conectam sistemas de forma inteligente.
 
-### Tech Stack
+### minha stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -35,7 +34,7 @@ Transformando processos manuais em fluxos eficientes com **Python, RPA e IA**. C
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-### Projetos em destaque
+### Ultimos projetos
 
 <div align="center">
 
