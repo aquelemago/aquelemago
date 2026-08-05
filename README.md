@@ -52,7 +52,6 @@ mudo processos manuais para fluxos eficientes com **Python, RPA e IA**. Crio int
   <a href="https://github.com/aquelemago?tab=followers">
     <img src="https://img.shields.io/github/followers/aquelemago?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=58A6FF" alt="Followers"/>
  </a>
-  <img src="https://img.shields.io/badge/Public_Repos-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>
 </div>
 
 ---
